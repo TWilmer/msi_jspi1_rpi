@@ -63,7 +63,7 @@ U 1 1 61FF72FE
 P 6950 4050
 F 0 "J3" H 7000 4667 50  0000 C CNN
 F 1 "Conn_02x10_Odd_Even" H 7000 4576 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical" H 6950 4050 50  0001 C CNN
+F 2 "Connector_IDC:IDC-Header_2x10_P2.54mm_Vertical" H 6950 4050 50  0001 C CNN
 F 3 "~" H 6950 4050 50  0001 C CNN
 	1    6950 4050
 	1    0    0    -1  
@@ -74,7 +74,7 @@ U 1 1 61FFA6E9
 P 8550 4050
 F 0 "J4" H 8600 4667 50  0000 C CNN
 F 1 "Conn_02x10_Odd_Even" H 8600 4576 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical" H 8550 4050 50  0001 C CNN
+F 2 "Connector_IDC:IDC-Header_2x10_P2.54mm_Vertical" H 8550 4050 50  0001 C CNN
 F 3 "~" H 8550 4050 50  0001 C CNN
 	1    8550 4050
 	-1   0    0    -1  
