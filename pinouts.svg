@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="22cm" height="8cm" viewBox="698 412 434 141" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs/>
+  <g id="Background">
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="699.458" y="413.794" width="162.735" height="138.026" rx="0" ry="0"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="712.9" y="436.088">
+      <tspan xml:space="preserve" x="712.9" y="436.088">     JSP1 2x6 PIN</tspan>
+      <tspan x="712.9" y="452.088">1  VCC          VCC  2</tspan>
+      <tspan x="712.9" y="468.088">3  MISO        MOSI 4</tspan>
+      <tspan x="712.9" y="484.088">5  /CS             CLK 6</tspan>
+      <tspan x="712.9" y="500.088">7  GND          GND 8</tspan>
+      <tspan x="712.9" y="516.088">9  ???       NO PIN 10</tspan>
+      <tspan x="712.9" y="532.088">11 /WP    /HOLD   12</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="757.15" y="469.47">
+      <tspan x="757.15" y="469.47"></tspan>
+    </text>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="968.238" y="414.252" width="162.735" height="138.026" rx="0" ry="0"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="983.466" y="442.414">
+      <tspan xml:space="preserve" x="983.466" y="442.414">     JSP1 2x5 PIN</tspan>
+      <tspan x="983.466" y="458.414">1  VCC          VCC  2</tspan>
+      <tspan x="983.466" y="474.414">3  DO                DI 4</tspan>
+      <tspan x="983.466" y="490.414">5  /CS             CLK 6</tspan>
+      <tspan x="983.466" y="506.414">7  GND          GND 8</tspan>
+      <tspan x="983.466" y="522.414">9  ???       NO PIN 10</tspan>
+      <tspan x="983.466" y="538.414"></tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1025.93" y="469.928">
+      <tspan x="1025.93" y="469.928"></tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="982.8" y="438.994">
+      <tspan x="982.8" y="438.994"></tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="1000.31" y="462.338">
+      <tspan x="1000.31" y="462.338"></tspan>
+    </text>
+  </g>
+</svg>
