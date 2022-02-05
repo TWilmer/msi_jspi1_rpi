@@ -22,3 +22,18 @@ The two addition Pin of the 2x6 Connector are driven statically. But because the
 GPIO14, Pin 8, TX
 GPIO15, Pin 10, RX
 
+
+# High level Design
+
+The connectors are done through severa jumper, so that one can swap the pin setting.
+The board contains a break out are so that the adapter from 2.0 mm spacing to 2.5mm spacing can be broken off.
+
+The voltage Regulator is AMS1117-1.8
+The Level shifter is TXS0108EPWR  SOP-20
+
+The Target is connected to Port A
+The RPI is  connected to Port B
+where VCC-A has to be smaller than VCC-B
+
+The OE has to be driven from VCC-A thus we keep it always high.
+
